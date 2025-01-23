@@ -1,0 +1,11 @@
+
+<suite name="NopCommerce UI Automation" verbose="1">
+    <parameter name="userUrl" value="https://localhost:59579/"/>
+    <parameter name="adminUrl" value="https://localhost:59579/Admin"/>
+    <test name="Run on Firefox Browser">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="com.nopcommerce.users.Level_10_Dynamic_Locator"/>
+        </classes>
+    </test>
+</suite>

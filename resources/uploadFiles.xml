@@ -1,0 +1,10 @@
+
+<suite name="Datatable" verbose="1">
+    <parameter name="url" value="https://blueimp.github.io/jQuery-File-Upload/"/>
+    <test name="Run on firefox Browser">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.nopcommerce.users.Level_12_Upload"/>
+        </classes>
+    </test>
+</suite>

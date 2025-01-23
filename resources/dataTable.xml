@@ -1,0 +1,10 @@
+
+<suite name="Datatable" verbose="1">
+    <parameter name="url" value="https://www.jqueryscript.net/demo/CRUD-Data-Grid-Plugin-jQuery-Quickgrid/#google_vignette"/>
+    <test name="Run on firefox Browser">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.nopcommerce.users.Level_11_Data_Table"/>
+        </classes>
+    </test>
+</suite>
