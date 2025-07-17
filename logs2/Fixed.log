@@ -1,0 +1,519 @@
+[10-02-2025 16:28:50.857 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[10-02-2025 16:28:52.422 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[10-02-2025 16:28:52.499 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[10-02-2025 16:28:52.544 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc923@mail.vn
+[10-02-2025 16:28:52.587 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:28:52.627 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:28:52.671 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[10-02-2025 16:28:54.374 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[10-02-2025 16:28:54.448 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click logout link
+[10-02-2025 16:28:56.567 INFO com.nopcommerce.users.Level_14_Log4J] - ------------------- PASSED-------------
+[10-02-2025 16:39:04.867 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[10-02-2025 16:39:05.261 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[10-02-2025 16:39:05.351 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[10-02-2025 16:39:05.400 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc9653@mail.vn
+[10-02-2025 16:39:05.449 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:39:05.504 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:39:05.542 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[10-02-2025 16:39:06.269 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[10-02-2025 16:39:06.339 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click logout link
+[10-02-2025 16:39:07.620 INFO com.nopcommerce.users.Level_14_Log4J] - ------------------- PASSED-------------
+[10-02-2025 16:43:19.968 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[10-02-2025 16:43:20.349 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[10-02-2025 16:43:20.474 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[10-02-2025 16:43:20.547 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc8654@mail.vn
+[10-02-2025 16:43:20.627 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:43:20.670 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:43:20.716 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[10-02-2025 16:43:21.120 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[10-02-2025 16:43:21.159 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click logout link
+[10-02-2025 16:43:22.488 INFO com.nopcommerce.users.Level_14_Log4J] - ------------------- PASSED-------------
+[10-02-2025 16:46:31.731 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[10-02-2025 16:46:32.097 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[10-02-2025 16:46:32.205 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[10-02-2025 16:46:32.249 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc1049@mail.vn
+[10-02-2025 16:46:32.288 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:46:32.323 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:46:32.359 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[10-02-2025 16:46:32.618 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[10-02-2025 16:46:32.671 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click logout link
+[10-02-2025 16:46:33.705 INFO com.nopcommerce.users.Level_14_Log4J] - ------------------- PASSED-------------
+[11-02-2025 09:10:53.200 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 09:10:59.612 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 09:11:06.497 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 09:11:06.545 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc4616@mail.vn
+[11-02-2025 09:11:06.599 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:11:06.655 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:11:06.703 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 09:11:11.429 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 09:11:11.479 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click logout link
+[11-02-2025 09:11:19.160 INFO com.nopcommerce.users.Level_14_Log4J] - ------------------- PASSED-------------
+[11-02-2025 09:11:33.497 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 09:11:33.898 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 09:11:34.073 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 09:11:34.189 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc7977@mail.vn
+[11-02-2025 09:11:34.300 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:11:34.397 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:11:34.483 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 09:11:34.861 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 09:11:34.965 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click logout link
+[11-02-2025 09:11:36.207 INFO com.nopcommerce.users.Level_14_Log4J] - ------------------- PASSED-------------
+[11-02-2025 09:22:49.764 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 09:22:50.144 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 09:22:50.268 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 09:22:50.327 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc3336@mail.vn
+[11-02-2025 09:22:50.398 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:22:50.442 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:22:50.491 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 09:22:51.688 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 09:23:26.228 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 09:23:26.531 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 09:23:26.685 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 09:23:26.812 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc8809@mail.vn
+[11-02-2025 09:23:26.947 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:23:27.059 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:23:27.166 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 09:23:27.387 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 11:23:54.270 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 11:24:02.521 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 11:24:03.617 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 11:24:03.661 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc819@mail.vn
+[11-02-2025 11:24:03.945 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 11:24:04.009 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 11:24:04.064 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 11:24:09.354 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 11:25:04.850 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 11:25:05.390 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 11:25:05.510 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 11:25:05.602 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc9554@mail.vn
+[11-02-2025 11:25:05.696 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 11:25:05.790 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 11:25:05.881 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 11:25:06.474 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 11:34:46.479 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 11:34:46.831 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 11:34:47.003 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 11:34:47.129 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc5594@mail.vn
+[11-02-2025 11:34:47.253 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 11:34:47.363 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 11:34:47.463 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 11:34:47.852 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 13:43:08.830 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 13:43:11.322 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 13:43:11.454 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 13:43:11.553 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc8109@mail.vn
+[11-02-2025 13:43:11.664 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 13:43:11.779 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 13:43:11.882 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 13:43:14.355 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 13:51:10.125 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 13:51:10.477 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 13:51:10.623 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 13:51:10.728 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc3764@mail.vn
+[11-02-2025 13:51:10.861 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 13:51:10.972 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 13:51:11.088 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 13:51:11.484 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[14-02-2025 10:10:05.579 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[14-02-2025 10:10:09.554 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[14-02-2025 10:10:09.677 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[14-02-2025 10:10:09.787 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc1262@mail.vn
+[14-02-2025 10:10:09.897 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:10:10.001 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:10:10.101 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[14-02-2025 10:10:16.573 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[14-02-2025 10:15:28.722 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[14-02-2025 10:15:29.042 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[14-02-2025 10:15:29.202 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[14-02-2025 10:15:29.309 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc4991@mail.vn
+[14-02-2025 10:15:29.409 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:15:29.509 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:15:29.618 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[14-02-2025 10:15:30.299 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[14-02-2025 10:28:44.403 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[14-02-2025 10:28:44.962 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[14-02-2025 10:28:45.251 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[14-02-2025 10:28:45.376 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc8013@mail.vn
+[14-02-2025 10:28:45.536 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:28:45.797 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:28:45.941 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[14-02-2025 10:28:47.546 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[14-02-2025 10:32:20.329 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[14-02-2025 10:32:21.322 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[14-02-2025 10:32:21.456 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[14-02-2025 10:32:21.560 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc2452@mail.vn
+[14-02-2025 10:32:21.663 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:32:21.765 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:32:21.862 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[14-02-2025 10:32:23.634 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[14-02-2025 10:34:04.865 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[14-02-2025 10:34:05.233 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[14-02-2025 10:34:05.390 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[14-02-2025 10:34:05.495 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc1532@mail.vn
+[14-02-2025 10:34:05.611 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:34:05.702 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 10:34:05.805 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[14-02-2025 10:34:06.369 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[14-02-2025 13:50:53.953 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[14-02-2025 13:50:56.743 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[14-02-2025 13:50:56.903 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[14-02-2025 13:50:57.005 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc6520@mail.vn
+[14-02-2025 13:50:57.110 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 13:50:57.214 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 13:50:57.308 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[14-02-2025 13:50:59.363 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[14-02-2025 15:39:52.225 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[14-02-2025 15:39:56.255 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[14-02-2025 15:39:56.348 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[14-02-2025 15:39:56.396 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc5310@mail.vn
+[14-02-2025 15:39:56.439 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 15:39:56.478 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[14-02-2025 15:39:56.520 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[14-02-2025 15:40:00.399 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[19-02-2025 15:40:57.661 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 01: Open Register page
+[19-02-2025 15:41:03.901 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[19-02-2025 15:41:03.983 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[19-02-2025 15:41:04.040 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc7733@mail.vn
+[19-02-2025 15:41:04.485 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 15:41:04.620 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 15:41:04.758 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click register button
+[19-02-2025 15:41:10.428 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[19-02-2025 15:41:47.036 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click logout link
+[19-02-2025 16:15:41.404 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 01: Open Register page
+[19-02-2025 16:15:47.755 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[19-02-2025 16:15:51.701 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[19-02-2025 16:15:52.795 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc1944@mail.vn
+[19-02-2025 16:15:53.344 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 16:15:53.401 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 16:15:53.453 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click register button
+[19-02-2025 16:15:54.941 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[19-02-2025 16:15:59.122 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click logout link
+[19-02-2025 16:20:22.163 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 01: Open Register page
+[19-02-2025 16:20:23.012 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[19-02-2025 16:20:23.116 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[19-02-2025 16:20:23.173 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc8042@mail.vn
+[19-02-2025 16:20:23.231 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 16:20:23.279 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 16:20:23.329 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click register button
+[19-02-2025 16:20:24.211 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[19-02-2025 16:20:26.298 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click logout link
+[19-02-2025 16:24:14.096 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 01: Open Register page
+[19-02-2025 16:24:14.407 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[19-02-2025 16:24:14.525 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[19-02-2025 16:24:14.594 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc8199@mail.vn
+[19-02-2025 16:24:14.660 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 16:24:14.728 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 16:24:14.803 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click register button
+[19-02-2025 16:24:15.576 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[19-02-2025 16:24:17.292 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click logout link
+[19-02-2025 17:08:42.085 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 01: Open Register page
+[19-02-2025 17:08:43.312 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[19-02-2025 17:08:43.401 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[19-02-2025 17:08:43.445 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc9539@mail.vn
+[19-02-2025 17:08:43.491 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 17:08:43.540 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 17:08:43.574 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click register button
+[19-02-2025 17:08:44.376 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[19-02-2025 17:08:46.633 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click logout link
+[19-02-2025 17:10:33.796 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 01: Open Register page
+[19-02-2025 17:10:34.306 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[19-02-2025 17:10:34.414 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[19-02-2025 17:10:34.458 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc5573@mail.vn
+[19-02-2025 17:10:34.495 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 17:10:34.540 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 17:10:34.579 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click register button
+[19-02-2025 17:10:35.305 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[19-02-2025 17:10:36.722 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click logout link
+[19-02-2025 17:12:11.483 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 01: Open Register page
+[19-02-2025 17:12:11.850 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[19-02-2025 17:12:11.962 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[19-02-2025 17:12:12.009 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc5749@mail.vn
+[19-02-2025 17:12:12.076 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 17:12:12.123 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[19-02-2025 17:12:12.179 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click register button
+[19-02-2025 17:12:12.608 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[19-02-2025 17:12:16.512 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click logout link
+[20-02-2025 08:58:06.516 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 01: Open Register page
+[20-02-2025 08:58:15.418 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[20-02-2025 08:58:15.507 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[20-02-2025 08:58:15.730 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc1522@mail.vn
+[20-02-2025 08:58:15.860 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[20-02-2025 08:58:15.946 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[20-02-2025 08:58:15.993 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click register button
+[20-02-2025 08:58:21.294 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[20-02-2025 08:58:40.778 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click logout link
+[21-02-2025 11:38:14.914 INFO com.nopcommerce.users.Level_20_Share_State] - OS name = windows 11
+[21-02-2025 11:38:14.918 INFO com.nopcommerce.users.Level_20_Share_State] - Driver instance name = chromedriver: chrome on windows (ad0281ceac37f6a0be98d267bcc1f5fc)
+[21-02-2025 13:55:08.609 INFO com.nopcommerce.users.Level_20_Share_State] - OS name = windows 11
+[21-02-2025 13:55:08.643 INFO com.nopcommerce.users.Level_20_Share_State] - Cannot invoke "Object.toString()" because "this.driver" is null
+[21-02-2025 13:56:02.194 INFO com.nopcommerce.users.Level_20_Share_State] - OS name = windows 11
+[21-02-2025 13:56:02.196 INFO com.nopcommerce.users.Level_20_Share_State] - Driver instance name = chromedriver: chrome on windows (1c74c7771aa226d6c41c3a71209b3a27)
+[21-02-2025 13:56:12.405 INFO com.nopcommerce.users.Level_20_Share_State] - OS name = windows 11
+[21-02-2025 13:56:12.408 INFO com.nopcommerce.users.Level_20_Share_State] - Cannot invoke "Object.toString()" because "this.driver" is null
+[21-02-2025 13:56:35.565 INFO com.nopcommerce.users.Level_20_Share_State] - OS name = windows 11
+[21-02-2025 13:56:35.571 INFO com.nopcommerce.users.Level_20_Share_State] - Driver instance name = chromedriver: chrome on windows (5f413e2536b7f065f7340f8c4946951d)
+[03-03-2025 10:36:31.025 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 10:36:31.029 INFO orangeHRM.PIM.Level23_Live_Code] - Cannot invoke "Object.toString()" because "this.driver" is null
+[03-03-2025 10:38:24.221 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 10:38:24.225 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (50512d38-202c-4335-9b0b-9cf9fe5f847d)
+[03-03-2025 10:45:00.714 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 10:45:00.718 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (86c0852f-183f-4fbd-ab48-d54b5c340948)
+[03-03-2025 10:46:00.392 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 10:46:00.396 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (0cc71ff3-64b4-4d59-949c-6ad8cc50f870)
+[03-03-2025 10:47:29.446 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 10:47:29.449 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (7b359589-d9d8-4d04-9f36-82fcc2c8088c)
+[03-03-2025 15:49:37.990 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 15:49:38.090 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (b81b9304-4d96-4fca-b4ed-dbaaed6226ab)
+[03-03-2025 15:51:14.345 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 15:51:14.348 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (2a427ccf-6b27-44ab-9b79-ffd96a60231e)
+[03-03-2025 16:23:08.721 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 16:23:08.723 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (c8ecaaa1-7193-4d28-9735-e1066eda06d6)
+[03-03-2025 16:23:46.913 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 16:23:46.917 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (edc2a51c-658e-45ca-8674-224a97def070)
+[03-03-2025 16:24:39.189 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[03-03-2025 16:24:39.191 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (ec6823e9-29f4-45ab-9574-ec651cc3eff3)
+[04-03-2025 11:00:01.447 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[04-03-2025 11:00:01.466 INFO orangeHRM.PIM.Level23_Live_Code] - Cannot invoke "Object.toString()" because "this.driver" is null
+[04-03-2025 11:00:19.808 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[04-03-2025 11:00:19.811 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (6012c513-c77b-45ed-9519-87dae879e530)
+[04-03-2025 16:28:11.932 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[04-03-2025 16:28:11.962 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (87cbf335-7f8e-4f06-bda9-b7b5690b959f)
+[04-03-2025 16:29:36.031 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[04-03-2025 16:29:36.033 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (b2920ab7-48be-4b6e-ad0d-9ef3975416f4)
+[04-03-2025 16:33:36.253 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[04-03-2025 16:33:36.255 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (5a7d6173-52cc-439f-a3cf-3ee56e399a3a)
+[04-03-2025 16:52:03.083 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[04-03-2025 16:52:03.086 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (a4cbd112-98ca-4cb4-9b30-efd1ba5b6560)
+[04-03-2025 16:55:42.874 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[04-03-2025 16:55:42.920 INFO orangeHRM.PIM.Level23_Live_Code] - Cannot invoke "Object.toString()" because "this.driver" is null
+[06-03-2025 15:35:20.720 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 15:35:20.883 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (90f1ec7b-62bd-4d84-8ffb-ad7a7330535c)
+[06-03-2025 15:37:21.755 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 15:37:21.758 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (4e3123fe-8388-4132-9dfa-832e7f365092)
+[06-03-2025 15:38:27.788 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 15:38:27.790 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (5f2a8d7a-fea4-48ce-a6fd-2424ec4e7b97)
+[06-03-2025 16:11:50.296 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 16:11:50.315 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (5d276e6b-063a-4d3b-921f-e180454d937f)
+[06-03-2025 16:12:53.940 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 16:12:53.945 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (114afb8c-30cd-40d9-ae8b-b4d02120837f)
+[06-03-2025 16:14:07.508 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 16:14:07.515 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (27bef00f-3eac-42b3-a5c2-c717b420001d)
+[06-03-2025 16:14:46.815 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 16:14:46.815 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (01004457-802b-4836-b903-944f0fd74f0a)
+[06-03-2025 16:17:15.565 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 16:17:15.573 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (f8b0fd7c-a2b6-4c15-bc05-ad0ce0379bf6)
+[06-03-2025 16:28:56.695 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 16:28:56.710 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (08528661-b420-42fd-b7b8-358ea8c81175)
+[06-03-2025 16:30:36.234 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[06-03-2025 16:30:36.234 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (684130b4-0939-4c9f-a4ff-e3358ef0ab4e)
+[07-03-2025 11:13:40.283 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 11:13:40.472 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (b8671687-734c-4faa-bc6a-94263d6bd109)
+[07-03-2025 11:13:40.501 INFO orangeHRM.PIM.Level23_Live_Code] - Tried to run command without establishing a connection
+Build info: version: '4.27.0', revision: 'd6e718d'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [b8671687-734c-4faa-bc6a-94263d6bd109, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0.1, moz:accessibilityChecks: false, moz:buildID: 20250216192613, moz:debuggerAddress: 127.0.0.1:24472, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19800, moz:profile: C:\Users\hosyh\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:24472/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: b8671687-734c-4faa-bc6a-94263d6bd109
+[07-03-2025 13:15:56.493 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 13:15:56.525 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (36dc03a6-86f9-4a4a-9901-9d9acb0f5652)
+[07-03-2025 13:22:53.853 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 13:22:53.856 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (7e2b73ee-98a4-4469-9b3a-3095d1535ae4)
+[07-03-2025 13:29:15.107 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 13:29:15.111 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (786426b9-3638-4247-a387-4496ff3179b9)
+[07-03-2025 13:33:00.799 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 13:33:00.803 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (d4321c90-d1dd-4d7c-ae71-53c701ed8ac5)
+[07-03-2025 13:35:40.581 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 13:35:40.583 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (f2b4e49a-320e-4b7e-9dd2-8d31b04a9dd0)
+[07-03-2025 13:47:39.751 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 13:47:39.756 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (04840c62-dea0-453b-8a74-b9537e071b9b)
+[07-03-2025 13:49:38.312 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 13:49:38.318 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (4e5f320b-1012-4304-a3c9-e94a4a73535c)
+[07-03-2025 13:52:57.111 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 13:52:57.114 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (d894bd4b-b62b-4329-9693-aef329115af0)
+[07-03-2025 14:06:47.983 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 14:06:47.986 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (bdfbf2c2-09f5-49ad-a059-6ed9b22dbc4c)
+[07-03-2025 14:09:09.297 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 14:09:09.302 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (efd1b616-05c6-43fe-8b01-f96f79786c5e)
+[07-03-2025 14:43:13.499 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 14:43:13.503 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (e3808ead-c26d-4e25-8c39-21dbdb04ac6d)
+[07-03-2025 14:43:44.512 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 14:43:44.514 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (d203f34a-36cd-4f36-8a80-3cba02c04ed7)
+[07-03-2025 14:49:23.604 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 14:49:23.606 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (58397548-ef74-44ca-a22b-eba1fd887d5a)
+[07-03-2025 14:51:55.423 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 14:51:55.426 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (9f2a554f-4ec7-4874-b5a9-83f4283dabc2)
+[07-03-2025 15:04:30.297 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 15:04:30.301 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (ca41a0fc-bcf9-47b1-b073-a84fb353da43)
+[07-03-2025 15:05:36.254 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 15:05:36.257 INFO orangeHRM.PIM.Level23_Live_Code] - Cannot invoke "Object.toString()" because "this.driver" is null
+[07-03-2025 15:06:40.710 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 15:06:40.712 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (96f9d5dd-a7db-4686-9dd1-c344a2efb64a)
+[07-03-2025 15:07:10.453 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 15:07:10.458 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (99491545-96dc-49f8-8d70-35a7bc8a8071)
+[07-03-2025 15:16:08.007 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 15:16:08.024 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (f46a7e7e-17a8-4764-be6d-18ed3931f2ff)
+[07-03-2025 15:20:32.569 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 15:20:32.571 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (ed17f60a-2ea7-4a50-b243-0455f06d7519)
+[07-03-2025 15:22:51.151 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 15:22:51.154 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (f5d3c8f2-8e1b-48ce-9d50-da5d2e8746ec)
+[10-03-2025 09:29:23.990 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 09:29:24.009 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (e63e8003-3b67-4853-872c-0e6dc7bdcc19)
+[10-03-2025 09:30:41.721 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 09:30:41.723 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (3cbb0e0d-440c-4575-a2c8-3540f0e47f13)
+[10-03-2025 09:32:45.456 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 09:32:45.461 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (81976851-a27d-4983-97cc-c19b6960d2c2)
+[10-03-2025 09:50:10.866 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 09:50:10.890 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (c7e3d9cf-c197-4e06-be93-7e9037cd0701)
+[10-03-2025 10:06:48.713 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:06:48.729 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (9e4e18b9-7a7d-4c60-99bf-a4b116abbbf5)
+[10-03-2025 10:07:49.001 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:07:49.004 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (b023ec62-4f72-4022-a4d9-2a3dba1d2f6d)
+[10-03-2025 10:08:37.402 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:08:37.405 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (e8061fbd-9ee1-4078-861a-d791a121e518)
+[10-03-2025 10:27:51.973 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:27:51.998 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (0aadaddb-8b56-46cb-8566-27accd318422)
+[10-03-2025 10:29:48.608 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:29:48.627 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (6870a743-55ea-466a-ab10-0bb7e8fdecec)
+[10-03-2025 10:36:26.720 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:36:26.722 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (0bbaafd8-5dd4-4652-89a6-8be6355021ab)
+[10-03-2025 10:40:33.654 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:40:33.656 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (5d737480-c9ec-49b1-8c69-12822a029850)
+[10-03-2025 10:42:33.100 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:42:33.102 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (1d1c9619-ea4c-4a71-9dc4-8c19ecd9a061)
+[10-03-2025 10:44:37.963 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:44:37.965 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (93a0f3c5-21e4-4709-a4d4-b0c35f2558e7)
+[10-03-2025 10:45:24.230 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:45:24.233 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (92acb67f-bfe6-4f75-8830-762789d6c958)
+[10-03-2025 10:46:29.834 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 10:46:29.835 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (12c6974c-d1cd-47aa-a992-f60d17f8b27a)
+[10-03-2025 11:00:03.440 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 11:00:03.443 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (987dda34-2fe0-4c4e-9871-cdf72b424cc5)
+[10-03-2025 11:03:46.289 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 11:03:46.291 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (4b89699e-dafd-45ba-af0a-3479cb825443)
+[10-03-2025 11:05:30.890 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 11:05:30.892 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (bf5b7ce4-ae71-45c1-9e5d-8ca74ee7816d)
+[10-03-2025 13:38:27.601 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[10-03-2025 13:38:27.643 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (5fc4502d-1436-4a63-8067-c8bca25e3857)
+[11-03-2025 10:25:14.184 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:25:14.204 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:29:32.003 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:29:32.019 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:29:32.066 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:29:32.066 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:45:08.271 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:45:08.274 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:45:08.374 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:45:08.375 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:45:33.522 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:45:33.527 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:45:33.590 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:45:33.591 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:46:28.233 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:46:28.235 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:46:28.285 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:46:28.286 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:47:47.795 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:47:47.799 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:47:47.851 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:47:47.852 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:50:16.598 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:50:16.601 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:50:16.633 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:50:16.633 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:50:58.331 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:50:58.331 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:50:58.383 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:50:58.383 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:53:18.468 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:53:18.472 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:53:18.507 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:53:18.508 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:54:09.506 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:54:09.508 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:54:17.042 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:54:17.043 INFO com.nopcommerce.users.Level_21_Browser_Config] - Driver instance name = chromedriver: chrome on windows (951824e586d94b7453262f8eef585e1f)
+[11-03-2025 10:55:46.736 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:55:46.756 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:55:48.611 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:55:48.611 INFO com.nopcommerce.users.Level_21_Browser_Config] - Driver instance name = chromedriver: chrome on windows (fdeff5fcc6545f6e5d1ed80e3dc97b9a)
+[11-03-2025 10:58:57.845 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:58:57.848 INFO com.nopcommerce.users.Level_21_Browser_Config] - Driver instance name = firefoxdriver: firefox on windows (2226f70d-5e8f-4340-b2c5-de08f315df35)
+[11-03-2025 10:59:00.869 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:59:00.870 INFO com.nopcommerce.users.Level_21_Browser_Config] - Driver instance name = chromedriver: chrome on windows (664373105ccead49a89462f5aa21413a)
+[11-03-2025 10:59:19.077 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:59:19.079 INFO com.nopcommerce.users.Level_21_Browser_Config] - Driver instance name = firefoxdriver: firefox on windows (3fada460-49fb-4c0c-9260-709ca1c7e88c)
+[11-03-2025 10:59:22.089 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:59:22.089 INFO com.nopcommerce.users.Level_21_Browser_Config] - Driver instance name = chromedriver: chrome on windows (62a37d86beceafc1f6615e96cae25394)
+[12-03-2025 16:35:35.710 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:35:35.737 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = edgedriver: microsoftedge on windows (be8a8175ba724b2d552348048ad0dfd7)
+[12-03-2025 16:35:45.602 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:35:45.604 INFO orangeHRM.PIM.Level23_Live_Code] - Cannot invoke "Object.toString()" because "this.driver" is null
+[12-03-2025 16:36:02.877 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:36:02.877 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (3313e13b-e889-41b3-836e-ec919e581fe4)
+[12-03-2025 16:39:09.452 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:39:09.454 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = edgedriver: microsoftedge on windows (0e7e5826f9c2ca7cde83a1917193cf1c)
+[12-03-2025 16:39:12.167 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:39:12.168 INFO orangeHRM.PIM.Level23_Live_Code] - Cannot invoke "Object.toString()" because "this.driver" is null
+[12-03-2025 16:39:27.329 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:39:27.329 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (72d8904f-9206-4df1-9144-a931abb5d5e7)
+[12-03-2025 16:46:16.917 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:46:16.920 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = edgedriver: microsoftedge on windows (d7607d9ad848ef4f7081588ad68d0224)
+[12-03-2025 16:46:29.763 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:46:29.763 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = chromedriver: chrome on windows (bb93ca2c09de87ca8fb2cffe9ea15f60)
+[12-03-2025 16:46:43.171 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:46:43.172 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (a92c6526-46d1-415c-983f-5b5385c45389)
+[14-03-2025 08:49:01.631 INFO saucelabs.Level_22_Sort] - OS name = windows 11
+[14-03-2025 08:49:01.670 INFO saucelabs.Level_22_Sort] - Driver instance name = firefoxdriver: firefox on windows (ad2c7a4c-9d87-4b50-8f92-1f7855e0b54a)
+[14-03-2025 09:12:55.077 INFO saucelabs.Level_22_Sort] - OS name = windows 11
+[14-03-2025 09:12:55.080 INFO saucelabs.Level_22_Sort] - Driver instance name = firefoxdriver: firefox on windows (f2925467-8189-4fb9-8a35-750c138ad9f4)
+[14-03-2025 09:13:20.232 INFO saucelabs.Level_22_Sort] - OS name = windows 11
+[14-03-2025 09:13:20.234 INFO saucelabs.Level_22_Sort] - Driver instance name = firefoxdriver: firefox on windows (d3355fa9-a1f9-4eec-8671-7865967aac50)
+[14-03-2025 09:14:42.763 INFO saucelabs.Level_22_Sort] - OS name = windows 11
+[14-03-2025 09:14:42.767 INFO saucelabs.Level_22_Sort] - Driver instance name = firefoxdriver: firefox on windows (34c59443-6418-482d-89c2-42d47016135a)
+[14-03-2025 09:48:39.093 INFO saucelabs.Level_22_Sort] - ------------------- PASSED-------------
+[14-03-2025 09:48:41.510 INFO saucelabs.Level_22_Sort] - ---------FAILED---------
+[14-03-2025 09:48:46.105 INFO saucelabs.Level_22_Sort] - OS name = windows 11
+[14-03-2025 09:48:46.106 INFO saucelabs.Level_22_Sort] - Driver instance name = firefoxdriver: firefox on windows (877184d0-2584-43a1-ba2a-f71d4e1741ff)
+[14-03-2025 10:23:07.386 INFO saucelabs.Level_22_Sort] - ------------------- PASSED-------------
+[14-03-2025 10:23:09.914 INFO saucelabs.Level_22_Sort] - OS name = windows 11
+[14-03-2025 10:23:09.914 INFO saucelabs.Level_22_Sort] - Driver instance name = firefoxdriver: firefox on windows (ce870015-5e83-42e6-895c-db30ca08e6ec)
+[17-03-2025 15:52:03.248 INFO orangeHRM.PIM.Level_24_Data_Faker] - OS name = windows 11
+[17-03-2025 15:52:03.250 INFO orangeHRM.PIM.Level_24_Data_Faker] - Driver instance name = chromedriver: chrome on windows (b0f6c4e8967f49d5b9240e9923093022)
+[17-03-2025 15:52:55.108 INFO orangeHRM.PIM.Level_24_Data_Faker] - OS name = windows 11
+[17-03-2025 15:52:55.110 INFO orangeHRM.PIM.Level_24_Data_Faker] - Driver instance name = chromedriver: chrome on windows (63ac30697a870671278fb135a155b017)
+[17-03-2025 15:54:21.875 INFO orangeHRM.PIM.Level_24_Data_Faker] - OS name = windows 11
+[17-03-2025 15:54:21.875 INFO orangeHRM.PIM.Level_24_Data_Faker] - Driver instance name = chromedriver: chrome on windows (11a00e7a9ccf0cb9fd3210fc213267a6)
+[18-03-2025 09:42:21.516 INFO com.nopcommerce.users.Level_25_Manage_Data_01] - OS name = windows 11
+[18-03-2025 09:42:21.523 INFO com.nopcommerce.users.Level_25_Manage_Data_01] - Cannot invoke "Object.toString()" because "this.driver" is null
+[18-03-2025 09:45:25.028 INFO com.nopcommerce.users.Level_25_Manage_Data_01] - OS name = windows 11
+[18-03-2025 09:45:25.030 INFO com.nopcommerce.users.Level_25_Manage_Data_01] - Driver instance name = chromedriver: chrome on windows (d646e1922819a4edf6b1752c80b7bd7b)
+[18-03-2025 10:07:01.597 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - OS name = windows 11
+[18-03-2025 10:07:01.597 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - Driver instance name = chromedriver: chrome on windows (db90240773328b4660e01fc8dbb12c7b)
+[18-03-2025 15:32:34.314 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - OS name = windows 11
+[18-03-2025 15:32:34.442 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - Driver instance name = chromedriver: chrome on windows (1ae3ac3ec969fe3238cd12ea4eaadcf1)
+[18-03-2025 15:34:36.080 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - OS name = windows 11
+[18-03-2025 15:34:36.083 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - Driver instance name = chromedriver: chrome on windows (5e32f867568c6a995004fae18182fc70)
+[18-03-2025 15:49:27.727 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - OS name = windows 11
+[18-03-2025 15:49:27.732 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - Driver instance name = chromedriver: chrome on windows (a2fde1a1518ca46c6a23086219dbed4e)
+[18-03-2025 15:50:54.624 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - OS name = windows 11
+[18-03-2025 15:50:54.627 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - Driver instance name = chromedriver: chrome on windows (7a8fedf20507b96a5e796c026b24a74a)
+[18-03-2025 15:52:08.283 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - OS name = windows 11
+[18-03-2025 15:52:08.286 INFO com.nopcommerce.users.Level_25_Manage_Data_03] - Driver instance name = chromedriver: chrome on windows (d10d2e66619e9231fcc16ee84480f33c)
+[19-03-2025 10:01:27.086 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON] - OS name = windows 11
+[19-03-2025 10:01:27.110 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON] - Driver instance name = chromedriver: chrome on windows (7d50fe66c518b181657936cd5cfb325c)
+[20-03-2025 10:59:34.510 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_OBJECT] - OS name = windows 11
+[20-03-2025 10:59:34.526 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_OBJECT] - Driver instance name = chromedriver: chrome on windows (ed14d92348aee6221501c31c01e0b217)
+[20-03-2025 10:59:34.531 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_OBJECT] - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.36)
+Build info: version: '4.27.0', revision: 'd6e718d'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed14d92348aee6221501c31c01e0b217, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.36, chrome: {chromedriverVersion: 134.0.6998.90 (219ee74681fc..., userDataDir: C:\Users\hosyh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61640}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61640/devtoo..., se:cdpVersion: 134.0.6998.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ed14d92348aee6221501c31c01e0b217
+[20-03-2025 11:02:25.334 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_OBJECT] - OS name = windows 11
+[20-03-2025 11:02:25.339 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_OBJECT] - Driver instance name = chromedriver: chrome on windows (68edd6946128bafe84c3889cba9419c2)
+[20-03-2025 11:39:48.080 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_ARRAY] - OS name = windows 11
+[20-03-2025 11:39:48.084 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_ARRAY] - Driver instance name = chromedriver: chrome on windows (53cfed36560e36ccf42931ff06f87b3b)

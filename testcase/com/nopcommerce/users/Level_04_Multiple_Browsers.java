@@ -14,6 +14,10 @@ import pageObjects.nopCommerce.Users.UserLoginPO;
 import pageObjects.nopCommerce.Users.RegisterPageObject;
 
 public class Level_04_Multiple_Browsers extends BaseTest {
+    public Level_04_Multiple_Browsers() {
+        super();
+    }
+
     @Parameters("browser")
     @BeforeClass
     public void beforeClass(String browserName, String url) {

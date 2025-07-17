@@ -1,0 +1,12 @@
+{
+  "firstName": "Rosie",
+  "lastName": "Pham",
+  "editFirstname": "Ho",
+  "editLastname": "Stephen",
+  "driverLicense": "987654321",
+  "expiryDate": "2028-10-02",
+  "nation": "Algerian",
+  "maritalStatus":"Single",
+  "dateOfBirth": "2000-09-10"
+
+}

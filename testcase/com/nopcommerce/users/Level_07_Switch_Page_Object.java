@@ -10,6 +10,10 @@ import pageObjects.nopCommerce.PageGenerator;
 import pageObjects.nopCommerce.Users.*;
 
 public class Level_07_Switch_Page_Object extends BaseTest {
+    public Level_07_Switch_Page_Object() {
+        super();
+    }
+
     @Parameters({"browser","url"})
     @BeforeClass
     public void beforeClass(String browserName, String url) {

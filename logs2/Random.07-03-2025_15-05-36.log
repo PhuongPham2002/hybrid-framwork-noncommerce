@@ -1,0 +1,2 @@
+[07-03-2025 15:05:36.254 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 15:05:36.257 INFO orangeHRM.PIM.Level23_Live_Code] - Cannot invoke "Object.toString()" because "this.driver" is null

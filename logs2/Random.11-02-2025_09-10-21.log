@@ -1,0 +1,20 @@
+[11-02-2025 09:10:53.200 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 09:10:59.612 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 09:11:06.497 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 09:11:06.545 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc4616@mail.vn
+[11-02-2025 09:11:06.599 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:11:06.655 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:11:06.703 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 09:11:11.429 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 09:11:11.479 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click logout link
+[11-02-2025 09:11:19.160 INFO com.nopcommerce.users.Level_14_Log4J] - ------------------- PASSED-------------
+[11-02-2025 09:11:33.497 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[11-02-2025 09:11:33.898 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[11-02-2025 09:11:34.073 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[11-02-2025 09:11:34.189 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc7977@mail.vn
+[11-02-2025 09:11:34.300 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:11:34.397 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[11-02-2025 09:11:34.483 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[11-02-2025 09:11:34.861 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[11-02-2025 09:11:34.965 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click logout link
+[11-02-2025 09:11:36.207 INFO com.nopcommerce.users.Level_14_Log4J] - ------------------- PASSED-------------

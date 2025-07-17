@@ -1,0 +1,10 @@
+[10-02-2025 16:43:19.968 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 01: Open Register page
+[10-02-2025 16:43:20.349 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[10-02-2025 16:43:20.474 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[10-02-2025 16:43:20.547 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc8654@mail.vn
+[10-02-2025 16:43:20.627 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:43:20.670 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[10-02-2025 16:43:20.716 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click register button
+[10-02-2025 16:43:21.120 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[10-02-2025 16:43:21.159 INFO com.nopcommerce.users.Level_14_Log4J] - TC_01_Register - STEP 07: click logout link
+[10-02-2025 16:43:22.488 INFO com.nopcommerce.users.Level_14_Log4J] - ------------------- PASSED-------------

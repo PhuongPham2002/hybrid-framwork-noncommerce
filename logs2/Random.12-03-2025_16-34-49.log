@@ -1,0 +1,6 @@
+[12-03-2025 16:35:35.710 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:35:35.737 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = edgedriver: microsoftedge on windows (be8a8175ba724b2d552348048ad0dfd7)
+[12-03-2025 16:35:45.602 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:35:45.604 INFO orangeHRM.PIM.Level23_Live_Code] - Cannot invoke "Object.toString()" because "this.driver" is null
+[12-03-2025 16:36:02.877 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:36:02.877 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (3313e13b-e889-41b3-836e-ec919e581fe4)

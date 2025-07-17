@@ -1,0 +1,4 @@
+[11-03-2025 10:46:28.233 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:46:28.235 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:46:28.285 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:46:28.286 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null

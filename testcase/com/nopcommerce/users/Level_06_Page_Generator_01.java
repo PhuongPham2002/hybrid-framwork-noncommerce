@@ -14,6 +14,10 @@ import pageObjects.nopCommerce.Users.UserLoginPO;
 import pageObjects.nopCommerce.Users.RegisterPageObject;
 
 public class Level_06_Page_Generator_01 extends BaseTest {
+    public Level_06_Page_Generator_01() {
+        super();
+    }
+
     @Parameters("browser")
     @BeforeClass
     public void beforeClass(String browserName, String url) {

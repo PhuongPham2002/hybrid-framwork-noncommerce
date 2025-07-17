@@ -1,0 +1,4 @@
+[11-03-2025 10:54:09.506 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:54:09.508 INFO com.nopcommerce.users.Level_21_Browser_Config] - Cannot invoke "Object.toString()" because "this.driver" is null
+[11-03-2025 10:54:17.042 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:54:17.043 INFO com.nopcommerce.users.Level_21_Browser_Config] - Driver instance name = chromedriver: chrome on windows (951824e586d94b7453262f8eef585e1f)

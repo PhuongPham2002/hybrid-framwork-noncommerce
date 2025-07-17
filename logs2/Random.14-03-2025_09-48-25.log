@@ -1,0 +1,4 @@
+[14-03-2025 09:48:39.093 INFO saucelabs.Level_22_Sort] - ------------------- PASSED-------------
+[14-03-2025 09:48:41.510 INFO saucelabs.Level_22_Sort] - ---------FAILED---------
+[14-03-2025 09:48:46.105 INFO saucelabs.Level_22_Sort] - OS name = windows 11
+[14-03-2025 09:48:46.106 INFO saucelabs.Level_22_Sort] - Driver instance name = firefoxdriver: firefox on windows (877184d0-2584-43a1-ba2a-f71d4e1741ff)

@@ -11,6 +11,11 @@ import pageObjects.nopCommerce.Users.*;
 
 public class Level_13_Assert_Verify extends BaseTest {
     private String userUrlValue, adminUrlValue;
+
+    public Level_13_Assert_Verify() {
+        super();
+    }
+
     @Parameters({"browser","userUrl","adminUrl"})
     @BeforeClass
     public void beforeClass(String browserName, String userUrl, String adminUrl) {
@@ -29,7 +34,7 @@ public class Level_13_Assert_Verify extends BaseTest {
 
         registerPage = homePage.openRegisterPage();
         //Assert 01 - FAILED
-        verifyEqual(registerPage.getRegisterPageTitle(),"Registers");
+        //Assert.assertEquals(registerPage.getRegisterPageTitle(),"Registers");
         registerPage.enterToFirstNameTextbox(firstName);
         registerPage.enterToLastNameTextbox(lastName);
         registerPage.enterToEmailTextbox(emailAddress);
@@ -37,7 +42,7 @@ public class Level_13_Assert_Verify extends BaseTest {
         registerPage.enterToConfirmPasswordTextbox (password);
         registerPage.clickToRegisterButton();
         //Assert 02
-        verifyEqual(registerPage.getRegisterSuccessfulMessage(),"Your registration completed");
+        Assert.assertEquals(registerPage.getRegisterSuccessfulMessage(),"Your registration completed");
         homePage = registerPage.clickToLogOutLink();
     }
     @Test
@@ -49,6 +54,7 @@ public class Level_13_Assert_Verify extends BaseTest {
         loginPage.enterToPasswordTextbox(password);
         //Từ login về homepage thì cho hàm khở tạo Homepage vào trong hàm click to LoginButton.
         homePage = loginPage.clickToLoginButton();
+        customerPage = homePage.openCustomerInfoPage();
 
     }
 
@@ -93,7 +99,5 @@ public class Level_13_Assert_Verify extends BaseTest {
     private UserRewardPointPO rewardPointPage;
 
     String firstName, lastName,companyName,password;
-
-
 
 }

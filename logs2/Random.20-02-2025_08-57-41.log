@@ -1,0 +1,9 @@
+[20-02-2025 08:58:06.516 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 01: Open Register page
+[20-02-2025 08:58:15.418 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 02: Enter firstName textbox with value: Davidson
+[20-02-2025 08:58:15.507 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 03: Enter lastname textbox with value: Duthie
+[20-02-2025 08:58:15.730 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 04: Enter emailAddress textbox with value: afc1522@mail.vn
+[20-02-2025 08:58:15.860 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 05: Enter password textbox with value: wG8#`21)1t{
+[20-02-2025 08:58:15.946 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 06: Enter password textbox with value: wG8#`21)1t{
+[20-02-2025 08:58:15.993 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click register button
+[20-02-2025 08:58:21.294 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 08: Verify success message: Your registration completed
+[20-02-2025 08:58:40.778 INFO com.nopcommerce.users.Level_17_JIRA] - TC_01_Register - STEP 07: click logout link

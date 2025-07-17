@@ -11,6 +11,11 @@ import pageObjects.nopCommerce.Users.*;
 
 public class Level_10_Dynamic_Locator extends BaseTest {
     private String userUrlValue, adminUrlValue;
+
+    public Level_10_Dynamic_Locator() {
+        super();
+    }
+
     @Parameters({"browser","userUrl","adminUrl"})
     @BeforeClass
     public void beforeClass(String browserName, String userUrl, String adminUrl) {

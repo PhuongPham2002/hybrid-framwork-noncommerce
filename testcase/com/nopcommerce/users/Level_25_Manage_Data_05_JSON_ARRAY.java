@@ -1,0 +1,138 @@
+package com.nopcommerce.users;
+
+import Data.Employee;
+import Data.EmployeeList;
+import commons.BaseTest;
+import commons.GlobalConstants;
+import org.openqa.selenium.Dimension;
+import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+import pageObjects.orangeHRM.DashboardPO;
+import pageObjects.orangeHRM.LoginPO;
+import pageObjects.orangeHRM.PageGenerator;
+import pageObjects.orangeHRM.pim.employee.AddNewPO;
+import pageObjects.orangeHRM.pim.employee.EmployeeListPO;
+import pageObjects.orangeHRM.pim.employee.PersonalDetailsPO;
+
+import java.util.List;
+
+public class Level_25_Manage_Data_05_JSON_ARRAY extends BaseTest {
+
+    private WebDriver driver;
+    private LoginPO loginPage;
+    private DashboardPO dashboardPage;
+    private EmployeeListPO employeeListPage;
+    private AddNewPO addNewPage;
+    private PersonalDetailsPO personalDetailsPage;
+    private String employeeID;
+    private String firstName, lastName,editFirstname, editLastName,driverLicense,expiryDate,nation,maritalStatus,dateOfBirth;
+    private String avatarImageName ="1MB.jpg";
+    private EmployeeList employeeData;
+
+    @Parameters({"url","browser"})
+    @BeforeClass
+    public void beforeClass(String urlValue,String browserName) {
+        driver = getBrowserDriver(urlValue, browserName);
+        driver.manage().window().maximize();
+        loginPage = PageGenerator.getLoginPage(driver);
+        loginPage.enterUsernameTextbox(GlobalConstants.HRM_ADMIN_USERNAME);
+        loginPage.enterPasswordTextbox(GlobalConstants.HRM_ADMIN_PASSWORD);
+        dashboardPage = loginPage.clickLoginButton();
+        employeeData = EmployeeList.getEmployeeList();
+        System.out.println("Employee 1: " + employeeData.getEmployee().get(1));
+
+        for (int i=0;i<employeeData.getEmployee().size();i++){
+            System.out.println("Skill: "+employeeData.getEmployee().get(i));
+        }
+
+        for (EmployeeList.Employee employee: employeeData.getEmployee()){
+            System.out.println(employee.getName());
+            System.out.println(employee.getAge());
+            System.out.println(employee.getEmailAddress());
+        }
+
+
+
+//        firstName = "Rosie";
+//        lastName = "Pham";
+//        editFirstname = "Stephen";
+//        editLastName ="Ho";
+//        driverLicense = "123456789";
+//        expiryDate = "2026-03-06";
+//        nation = "Algerian";
+//        maritalStatus ="Single";
+//        dateOfBirth = "2000-09-10";
+    }
+
+    @Test
+    public void Employee_01_Add_New () {
+        //Wait cho tất cả loading icon biến mất
+//        employeeListPage = dashboardPage.clickPIMPage();
+//        addNewPage = employeeListPage.clickAddEmployeeButton();
+//        employeeListPage.waitAllLoadingIconInvisible(driver);
+//        addNewPage.enterFirstnameTextbox (userData.getFirstName());
+//        addNewPage.enterLastnameTextbox (userData.getLastName());
+//        employeeID = addNewPage.getEmployeeID();
+//        System.out.println("Employee ID: "+ employeeID);//sử dụng cho các chức năng sau
+//        personalDetailsPage = addNewPage.clickSaveButtonEmployeeContainer();
+//        //Assert.assertTrue(personalDetailsPage.isSuccessMessageDisplayed(driver));
+//        personalDetailsPage.waitAllLoadingIconInvisible(driver);
+    }
+
+    //@Test
+    public void Employee_02_Upload_Avatar() {
+        personalDetailsPage.clickAvatarImage();
+        Dimension beforeUpload = personalDetailsPage.getAvatarSize();
+        System.out.println("Size:" + beforeUpload);
+        personalDetailsPage.uploadMultipleFiles(driver,avatarImageName);
+        personalDetailsPage.clickSaveButtonAtProfilePictureContainer();
+        Assert.assertTrue(personalDetailsPage.isSuccessMessageDisplayed(driver));
+        personalDetailsPage.waitAllLoadingIconInvisible(driver);
+        Assert.assertTrue(personalDetailsPage.isProfileAvatarUpdateSuccessful(beforeUpload));
+
+    }
+    //@Test
+    public void Employee_03_Personal_Details() {
+//        personalDetailsPage.openPersonalDetailsPage("Personal Details");
+//        personalDetailsPage.enterFirstNameTextbox(userData.getEditFirstname());
+//        personalDetailsPage.enterLastNameTextbox(userData.getEditLastName());
+//        System.out.println("employeeID new: " + personalDetailsPage.getEmployeeID());
+//        Assert.assertEquals(personalDetailsPage.getEmployeeID(), employeeID);
+//        personalDetailsPage.enterDriverLicenseTextbox(userData.getDriverLicense());
+//        personalDetailsPage.enterExpiryDateTextbox(userData.getExpiryDate());
+//        personalDetailsPage.selectNationalityDropdown(userData.getNation());
+//        personalDetailsPage.selectMaritalStatusDropdown(userData.getMaritalStatus());
+//        personalDetailsPage.enterDateOfBirthTextbox(userData.getDateOfBirth());
+//        personalDetailsPage.selectGenderFemaleRadio();
+//        personalDetailsPage.clickSaveButtonAtPersonalDetailContainer();
+//        Assert.assertTrue(personalDetailsPage.isSuccessMessageDisplayed(driver));
+//        personalDetailsPage.waitAllLoadingIconInvisible(driver);
+//
+//        //Verify lại hêt các thông tin đã thay đổi
+//        Assert.assertEquals(personalDetailsPage.getFirstNameTextboxValue(),userData.getEditFirstname());
+//        Assert.assertEquals(personalDetailsPage.getLastNameTextboxValue(),userData.getEditLastName());
+//        Assert.assertEquals(personalDetailsPage.getEmployeeID(), employeeID);
+//        Assert.assertEquals(personalDetailsPage.getDriverLicenseTextbox(),userData.getDriverLicense());
+//        Assert.assertEquals(personalDetailsPage.getExpiryDateTextbox(),userData.getExpiryDate());
+//        Assert.assertEquals(personalDetailsPage.getNationalityDropdown(),userData.getNation());
+//        Assert.assertEquals(personalDetailsPage.getMaritalStatusDropdown(),userData.getMaritalStatus());
+//        Assert.assertEquals(personalDetailsPage.getDateOfBirthTextbox(),userData.getDateOfBirth());
+//        Assert.assertTrue(personalDetailsPage.isGenderFemaleSelected());
+
+    }
+    @Test
+    public void Employee_04_Contact_Details() {}
+    @Test
+    public void Employee_05_Emergency_Details() {}
+    @Test
+    public void Employee_06_Assigned_Dependents() {}
+
+    @AfterClass (alwaysRun = true)
+    public void afterClass(){
+        closeBrowserDriver();
+    }
+}

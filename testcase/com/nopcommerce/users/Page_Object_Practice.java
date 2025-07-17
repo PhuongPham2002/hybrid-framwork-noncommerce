@@ -24,6 +24,10 @@ public class Page_Object_Practice extends BaseTest {
     PracticeCustomerInforPageObject customerPage;
     String firstName, lastName, emailAddress, password;
 
+    public Page_Object_Practice() {
+        super();
+    }
+
     @BeforeClass
     public void beforeClass() {
         EdgeOptions edgeOptions = new EdgeOptions();

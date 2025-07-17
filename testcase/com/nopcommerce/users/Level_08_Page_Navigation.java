@@ -10,6 +10,10 @@ import pageObjects.nopCommerce.PageGenerator;
 import pageObjects.nopCommerce.Users.*;
 
 public class Level_08_Page_Navigation extends BaseTest {
+    public Level_08_Page_Navigation() {
+        super();
+    }
+
     @Parameters({"browser","url"})
     @BeforeClass
     public void beforeClass(String browserName, String url) {

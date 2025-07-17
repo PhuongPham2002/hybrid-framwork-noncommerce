@@ -8,10 +8,14 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import pageObjects.jQuery.HomePageObject;
 import pageObjects.jQuery.PageGenerator;
-import pageObjects.nopCommerce.Users.*;
 
 public class Level_11_Data_Table extends BaseTest {
     private String url, adminUrlValue;
+
+    public Level_11_Data_Table() {
+        super();
+    }
+
     @Parameters({"browser","url"})
     @BeforeClass
     public void beforeClass(String browserName, String url) {

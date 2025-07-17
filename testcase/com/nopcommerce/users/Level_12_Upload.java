@@ -11,6 +11,11 @@ import pageObjects.jQuery.PageGenerator;
 
 public class Level_12_Upload extends BaseTest {
     private String url, adminUrlValue;
+
+    public Level_12_Upload() {
+        super();
+    }
+
     @Parameters({"browser","url"})
     @BeforeClass
     public void beforeClass(String browserName, String url) {

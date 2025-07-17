@@ -13,6 +13,11 @@ import pageObjects.nopCommerce.Users.*;
 
 public class Level_09_Switch_Site_URL extends BaseTest {
     private String userUrlValue, adminUrlValue;
+
+    public Level_09_Switch_Site_URL() {
+        super();
+    }
+
     @Parameters({"browser","userUrl","adminUrl"})
     @BeforeClass
     public void beforeClass(String browserName, String userUrl, String adminUrl) {

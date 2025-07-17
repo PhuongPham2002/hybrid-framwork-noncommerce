@@ -1,0 +1,4 @@
+[11-03-2025 10:58:57.845 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:58:57.848 INFO com.nopcommerce.users.Level_21_Browser_Config] - Driver instance name = firefoxdriver: firefox on windows (2226f70d-5e8f-4340-b2c5-de08f315df35)
+[11-03-2025 10:59:00.869 INFO com.nopcommerce.users.Level_21_Browser_Config] - OS name = windows 11
+[11-03-2025 10:59:00.870 INFO com.nopcommerce.users.Level_21_Browser_Config] - Driver instance name = chromedriver: chrome on windows (664373105ccead49a89462f5aa21413a)

@@ -8,6 +8,8 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import pageUIs.jQuery.HomepageUI;
 import pageUIs.nopCommerce.BasePageUI;
+import pageUIs.orangeHRM.BasePUI;
+import pageUIs.orangeHRM.pim.employee.PersonalDetailPUI;
 
 import java.time.Duration;
 import java.util.List;
@@ -138,8 +140,9 @@ public class BasePage {
         getWebElement(driver,castParameter(locator,restParameter)).click();
     }
     public void sendkeyToElement(WebDriver driver, String locator, String valueToSend){
-        // 1 element là thẻ input mà bị ẩn mà mình clear --> Lỗi trên Firefox: could not be scrolled into view
-        getWebElement(driver, locator).clear();
+        sleepInSecond(1);
+        getWebElement(driver, locator).sendKeys(Keys.chord(Keys.CONTROL,"a",Keys.BACK_SPACE));
+        sleepInSecond(1);
         getWebElement(driver,locator).sendKeys(valueToSend);
     }
 
@@ -162,11 +165,11 @@ public class BasePage {
         return new Select(getWebElement(driver,locator)).isMultiple();
     }
     public String getAttributeValue(WebDriver driver, String locator, String attributeName){
-        return getWebElement(driver,locator).getDomAttribute(attributeName);
+        return getWebElement(driver,locator).getDomProperty(attributeName);
     }
 
     public String getAttributeValue(WebDriver driver, String locator, String attributeName, String...restParameter){
-        return getWebElement(driver,castParameter(locator,restParameter)).getDomAttribute(attributeName);
+        return getWebElement(driver,castParameter(locator,restParameter)).getDomProperty(attributeName);
     }
     public String getCSSValue(WebDriver driver, String locator, String propertyName){
         return getWebElement(driver,locator).getCssValue(propertyName);
@@ -232,12 +235,22 @@ public class BasePage {
     public void switchToDefaultContent(WebDriver driver, String locator){
         driver.switchTo().defaultContent();
     }
+    public boolean waitAttributeTobe(WebDriver driver, String locator,String currentValue, String expectedValue){
+      return new WebDriverWait(driver,Duration.ofSeconds(GlobalConstants.LONG_TIMEOUT)).until(ExpectedConditions.not(ExpectedConditions.attributeToBe(getByLocator(locator),currentValue,expectedValue)));
+    }
     public WebElement waitForElementVisible(WebDriver driver, String locator){
         return new WebDriverWait(driver,Duration.ofSeconds(GlobalConstants.LONG_TIMEOUT)).until(ExpectedConditions.visibilityOfElementLocated(getByLocator(locator)));
     }
+
     public WebElement waitForElementVisible(WebDriver driver, String locator,String...restParameter){
         return new WebDriverWait(driver,Duration.ofSeconds(GlobalConstants.LONG_TIMEOUT)).until(ExpectedConditions.visibilityOfElementLocated(getByLocator(castParameter(locator,restParameter))));
     }
+
+    public void waitForElementAttribute(WebDriver driver, String locator,String attributeName, String attributeValue,String...restParameter){
+        new WebDriverWait(driver,Duration.ofSeconds(GlobalConstants.LONG_TIMEOUT)).until(ExpectedConditions.attributeToBe(getByLocator(castParameter(locator,restParameter)),attributeName, attributeValue));
+    }
+
+
     public List <WebElement> waitForListElementVisible (WebDriver driver, String locator){
         return new WebDriverWait(driver,Duration.ofSeconds(GlobalConstants.LONG_TIMEOUT)).until(ExpectedConditions.presenceOfAllElementsLocatedBy(getByLocator(locator)));
     }
@@ -371,6 +384,43 @@ public class BasePage {
         }
         fullFileName = fullFileName.trim();  //cắt ký tự xuống dòng ở 2 đầu chuỗi đi
         getWebElement(driver, BasePageUI.UPLOAD_FILE_TYPE).sendKeys(fullFileName);
+
+    }
+
+    public void enterTextboxByID(WebDriver driver, String textboxID, String value ){
+        waitForElementVisible(driver,BasePageUI.TEXTBOX_BY_ID,textboxID);
+        sendkeyToElement(driver,BasePageUI.TEXTBOX_BY_ID,value,textboxID);
+    }
+
+
+    public void clickButtonText(WebDriver driver,String buttonText) {
+        waitForElementVisible(driver,BasePageUI.BUTTON_BY_TEXT,buttonText);
+        clickToElement(driver,BasePageUI.BUTTON_BY_TEXT,buttonText);
+    }
+
+    public String getTexboxValueByID(WebDriver driver, String textboxID) {
+
+        waitForElementVisible(driver,BasePageUI.TEXTBOX_BY_ID,textboxID);
+        return getAttributeValue(driver,BasePageUI.TEXTBOX_BY_ID,"value",textboxID);
+    }
+
+    public Set<Cookie> getAllCookies (WebDriver driver){
+        return driver.manage().getCookies();
+    }
+
+    public void setCookies(WebDriver driver,Set<Cookie> cookies){
+        for (Cookie cookie:cookies){
+            driver.manage().addCookie(cookie);
+        }
+        sleepInSecond(5);
+    }
+
+    public boolean waitAllLoadingIconInvisible(WebDriver driver) {
+        return waitForListElementInvisible(driver, BasePUI.LOADING_ICON);}
+
+    public boolean isSuccessMessageDisplayed(WebDriver driver) {
+        waitForElementVisible(driver, BasePUI.SUCCESSFUL_MESSAGE_PROFILE);
+        return isElementDisplayed(driver,BasePUI.SUCCESSFUL_MESSAGE_PROFILE);
 
     }
 }

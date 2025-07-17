@@ -1,0 +1,9 @@
+[07-03-2025 11:13:40.283 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[07-03-2025 11:13:40.472 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (b8671687-734c-4faa-bc6a-94263d6bd109)
+[07-03-2025 11:13:40.501 INFO orangeHRM.PIM.Level23_Live_Code] - Tried to run command without establishing a connection
+Build info: version: '4.27.0', revision: 'd6e718d'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [b8671687-734c-4faa-bc6a-94263d6bd109, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0.1, moz:accessibilityChecks: false, moz:buildID: 20250216192613, moz:debuggerAddress: 127.0.0.1:24472, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19800, moz:profile: C:\Users\hosyh\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:24472/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: b8671687-734c-4faa-bc6a-94263d6bd109

@@ -1,0 +1,6 @@
+[12-03-2025 16:46:16.917 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:46:16.920 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = edgedriver: microsoftedge on windows (d7607d9ad848ef4f7081588ad68d0224)
+[12-03-2025 16:46:29.763 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:46:29.763 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = chromedriver: chrome on windows (bb93ca2c09de87ca8fb2cffe9ea15f60)
+[12-03-2025 16:46:43.171 INFO orangeHRM.PIM.Level23_Live_Code] - OS name = windows 11
+[12-03-2025 16:46:43.172 INFO orangeHRM.PIM.Level23_Live_Code] - Driver instance name = firefoxdriver: firefox on windows (a92c6526-46d1-415c-983f-5b5385c45389)

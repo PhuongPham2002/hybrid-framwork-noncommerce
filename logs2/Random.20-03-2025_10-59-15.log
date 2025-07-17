@@ -1,0 +1,11 @@
+[20-03-2025 10:59:34.510 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_OBJECT] - OS name = windows 11
+[20-03-2025 10:59:34.526 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_OBJECT] - Driver instance name = chromedriver: chrome on windows (ed14d92348aee6221501c31c01e0b217)
+[20-03-2025 10:59:34.531 INFO com.nopcommerce.users.Level_25_Manage_Data_05_JSON_OBJECT] - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.36)
+Build info: version: '4.27.0', revision: 'd6e718d'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed14d92348aee6221501c31c01e0b217, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.36, chrome: {chromedriverVersion: 134.0.6998.90 (219ee74681fc..., userDataDir: C:\Users\hosyh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61640}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61640/devtoo..., se:cdpVersion: 134.0.6998.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ed14d92348aee6221501c31c01e0b217

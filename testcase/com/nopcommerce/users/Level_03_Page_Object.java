@@ -20,6 +20,10 @@ import java.time.Duration;
 
 public class Level_03_Page_Object extends BaseTest {
 
+    public Level_03_Page_Object() {
+        super();
+    }
+
     @BeforeClass
     public void beforeClass() {
         EdgeOptions edgeOptions = new EdgeOptions();
